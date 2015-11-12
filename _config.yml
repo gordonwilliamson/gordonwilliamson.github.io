@@ -1,7 +1,6 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /website
 
 # Site live URL
 url: http://gordonwilliamson.github.io
