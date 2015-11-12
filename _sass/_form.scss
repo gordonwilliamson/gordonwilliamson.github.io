@@ -1,0 +1,12 @@
+form 
+  max-width: 450px
+  margin: 0 auto 50px
+  
+  input, textarea
+  width: 100%
+  
+  [type="submit"]
+    background: $accent
+    color: white
+    font-size: 18px
+    text-transform: uppercase

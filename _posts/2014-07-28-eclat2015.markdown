@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Eclat Festival 2015"
+date:   2014-07-28 22:48:45
+description: My newest orchestral work performed at the 2015 Eclat Festival by the RSO Stuttgart.
+categories:
+- concert
+- radio
+---
+
+**ECLAT**: *Unhinged* will be premiered on February 8th by the RSO Stuttgart, conducted by Rupert Huber, as part of the 2015 Eclat Festival. The concert will be broadcast live on SWR2 Radio. (February, 2015)
+
