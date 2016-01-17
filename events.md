@@ -12,7 +12,7 @@ October 8 and 9, 2016, Seattle, USA:
 premiere of *New Work* (2016) commissioned by the Esoterics.
 
 March 29, 2016, Konzerthaus Berlin:  
-premiere of *New Work* (2015/16) performed by Asian Ensemble.
+premiere of *New Work* (2015/16) commissioned by Asian Art Ensemble with the support of the Ernst von Siemens Music Foundation. 
 
 March 12, 2016, Baruch Performing Arts Center, New York, NY:  
 *Tape Recorder* (2014) C4 Ensemble conducted by Perry Townsend.
