@@ -9,6 +9,7 @@ published: true
 
 
 
+
 March 29, 2016, Konzerthaus Berlin:  
 premiere of *New Work* (2015/16) performed by Asian Ensemble.
 
@@ -17,6 +18,8 @@ March 12, 2016, Baruch Performing Arts Center, New York, NY:
 
 March 10, 2016, Church of St. Luke in the Fields, New York, NY:  
 *Tape Recorder* performed by C4 Ensemble conducted by Perry Townsend.
+
+January 31, 2016, Schaumbad, Graz, Austria: Artist presentation as part of Styria AIR Program, performance of *Domestic Abuse* (2015) by members of Schallfeld Ensemble.
 
 December 19, 2015, KGNM, Cologne:  
 *Domestic Abuse* (2015) performed by hand werk.
