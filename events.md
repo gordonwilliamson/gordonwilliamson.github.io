@@ -8,7 +8,8 @@ published: true
 
 
 
-
+October 8, 9 and 10, 2016, Seattle, USA:
+premiere of *New Work* (2016) commissioned by the Esoterics.
 
 March 29, 2016, Konzerthaus Berlin:  
 premiere of *New Work* (2015/16) performed by Asian Ensemble.
