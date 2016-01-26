@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-01-10T12:00:00.000Z
 description: Graz Residency
 ---
 
