@@ -1,6 +1,10 @@
 ---
 published: true
+layout: post
+date: 2015-10-13T12:00:00.000Z
+description: Graz Residency
 ---
+
 
 
 
