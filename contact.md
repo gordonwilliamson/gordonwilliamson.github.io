@@ -11,9 +11,8 @@ published: true
 
 
 
-Bleekstr. 22N  
-30559 Hannover  
+Türkstr. 5  
+30167 Hannover  
 Germany
 
-Or say `Hello` at [gordonwilliamson@](mailto:gordonwilliamson@gmail.com).
-
+Or say `Hello` at [gordonwilliamson (at) gmail.com](mailto:gordonwilliamson@gmail.com).
