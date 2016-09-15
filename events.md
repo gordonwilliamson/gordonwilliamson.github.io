@@ -12,16 +12,16 @@ October 9, 2016, Christ Episcopal Church, Tacoma, USA:
 *In the Gold Room: a Harmony* (2016) performed by the Esoterics, Eric Banks conducting.
 
 October 8, 2016, Holy Rosary Catholic Church, West Seattle, USA: 
-*In the Gold Room: a Harmony* (2016) performed by the Esoterics, Eric Banks conducting.
+*In the Gold Room: a Harmony* performed by the Esoterics, Eric Banks conducting.
 
 October 7, 2016, St. Stephen's Episcopal Church, Seattle, USA: 
-premiere of *In the Gold Room: a Harmony* (2016) performed by the Esoterics, Eric Banks conducting.  Commissioned by the Esoterics as part of the POLYPHONOS Program. 
+premiere of *In the Gold Room: a Harmony* performed by the Esoterics, Eric Banks conducting.  Commissioned by the Esoterics as part of the POLYPHONOS Program. 
 
 May 8, 2016, Sprengel Museum, Hannover:  
 *pale glimmering trails* (2015/16) performed by Asian Art Ensemble as part of the HGNM Zeitlupe Concert Series.  Composer discussion with Il-Ryung Chung of AAE. 
 
 March 29, 2016, Konzerthaus Berlin:  
-premiere of *pale glimmering trails* (2015/16) commissioned by Asian Art Ensemble with the support of the Ernst von Siemens Music Foundation. 
+premiere of *pale glimmering trails* commissioned by Asian Art Ensemble with the support of the Ernst von Siemens Music Foundation. 
 
 March 12, 2016, Baruch Performing Arts Center, New York, NY:  
 *Tape Recorder* (2014) C4 Ensemble conducted by Perry Townsend.
