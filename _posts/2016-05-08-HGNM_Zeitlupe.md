@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-05-08T12:00:00.000Z
+date: {}
 description: HGNM Zeitlupe
 ---
 ## HGNM Zietlupe:
