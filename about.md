@@ -16,4 +16,4 @@ Gordon Williamson studied composition at the Hochschule für Musik, Theater und 
 
 *September, 2016*
 
-![](https://app.box.com/representation/file_version_43359843905/image_2048_jpg/1.jpg?shared_name=rjn05aweuetjz0utob14c02up4phdsk5)
+![](https://app.box.com/representation/file_version_102074550246/image_2048_jpg/1.jpg?shared_name=f6v4mirohbti3g66ylj4i2eycum49p5o)
