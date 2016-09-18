@@ -1,7 +1,8 @@
 ---
 published: false
 ---
-## Recent News:
+## HGNM Zietlupe:
 
-Time to catch up on some recent news items from the past several months!  All in one post..
-- My new work for the [Asian Art Ensemble](http://www.asianart-ensemble.com/german/Startseite.html), has commissioned me to write a new piece for Koto, Gayageum, Cello and Double Bass, to be premiered on March 29th in the [Konzerthaus](http://en.konzerthaus.de/) in Berlin, Germany.  The commission has been made possible with the generous support of the [Ernst von Siemens Music Foundation](http://www.evs-musikstiftung.ch/en/index.html).
+_pale glimmering trails_, my new work for the [Asian Art Ensemble](http://www.asianart-ensemble.com/german/Startseite.html), was presented as part of the [HGNM Zeitlupe](https://www.facebook.com/events/1717527895127803/) concert series at the Sprengel Museum, Hannover.  [Il-Ryun Chung](http://www.ilryunchung.com/de/Anfang.html), artistic director of the ensemble, led a discussion about my work on this new piece.  Thanks to the [Ernst von Siemens Music Foundation](http://www.evs-musikstiftung.ch/en/index.html) for supporting the commission of this piece!
+
+
