@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 'Sun May 08 2016 02:00:00 GMT+0200 (CEST)'
+date: '2016-05-08 02:00:00 GMT+0200'
 description: HGNM Zeitlupe
 ---
 
