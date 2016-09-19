@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-09-18T20:00:00.000Z
 description: Seattle Premiere
 ---
 
