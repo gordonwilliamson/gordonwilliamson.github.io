@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: 2016-11-28T20:00:00.000Z
 description: New CD Released
